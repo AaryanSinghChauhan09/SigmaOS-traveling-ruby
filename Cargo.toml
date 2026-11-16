@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-traveling-ruby"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS traveling-ruby component"
+
+[lib]
+name = "traveling_ruby"
+path = "src/lib.rs"
