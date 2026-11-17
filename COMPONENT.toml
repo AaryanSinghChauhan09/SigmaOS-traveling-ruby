@@ -3,7 +3,7 @@ name = "SigmaOS-traveling-ruby"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "traveling-ruby component"
+description = "traveling-ruby platform GUI toolkit component"
 upstream = []
 
 [contract]
